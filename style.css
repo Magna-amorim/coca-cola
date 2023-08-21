@@ -63,4 +63,18 @@ footer{
     justify-content: end;
     align-items: center;
     padding-right: 75px;
-}
+
+.assinatura{  
+    position: absolute;
+    color: #ffffff;
+    font-size: 10px;
+    width: 240px;
+    transform: translateX(-100%);
+    text-align: end;
+       
+    }
+        
+
+    }
+    
+
